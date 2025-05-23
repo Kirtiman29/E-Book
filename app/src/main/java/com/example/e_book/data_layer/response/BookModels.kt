@@ -7,4 +7,6 @@ data class BookModels (
     val bookName: String = "",
     val bookUrl: String = "",
     val category: String = "",
+    val bookDescription: String = ""
+
 )
